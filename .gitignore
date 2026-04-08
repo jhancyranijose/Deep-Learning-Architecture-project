@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+data/
+outputs/
+*.h5
+*.keras
+xai_outputs/
+.vscode/
+.DS_Store
